@@ -41,5 +41,3 @@ We compared the performance of our SimCLR pre-trained model against two baseline
 
 > **Key Finding:** Pre-training on domain-specific medical data (SimCLR) yields a significant performance boost (+8-13% accuracy) compared to using generic natural image weights (ImageNet), validating the effectiveness of self-supervised learning for medical imaging.
 
-> *Note: Our SSL approach achieves comparable performance to supervised baselines using significantly less labeled data.*
-
